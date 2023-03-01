@@ -164,9 +164,9 @@ public class SM4Utils
 		//解密以下字符
 		/*String plainText = "{\"QUERY_RANGE\":\"2\",\"PROVINCE_CODE\":\"11102\"}";//输入密文
 		SM4Utils sm4 = new SM4Utils();
-		sm4.secretKey = "5075d66b6cde89f5";
+		sm4.secretKey = "联系QQ1198287349";
 		System.out.println("CBC模式");
-		sm4.iv = "e36e3e462a602431";
+		sm4.iv = "联系QQ1198287349";
 		String cipherText = sm4.encryptData_CBC(plainText);
 		System.out.println("密文: " + cipherText);//明文加密后
 		System.out.println("");
@@ -175,8 +175,8 @@ public class SM4Utils
 
 		//解密一下字符
 		SM4Utils sm4 = new SM4Utils();
-		sm4.secretKey = "5075d66b6cde89f5";
-		sm4.iv = "e36e3e462a602431";
+		sm4.secretKey = "联系QQ1198287349";
+		sm4.iv = "联系QQ1198287349";
 		String ctext = "415Sez/Jai9DUg8F9uohyg==\"";//输入密文
 		String plainText = sm4.decryptData_CBC(ctext);
 		System.out.println("明文: " + plainText);//拿到明文
