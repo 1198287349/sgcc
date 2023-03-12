@@ -1,6 +1,8 @@
 # sgcc
 sgcc 国上国网 国上 电e宝 算法分析 
 
+# QQ1198287349
+
 
 ![1](https://user-images.githubusercontent.com/38068634/222102987-adc43d5b-2462-4dd0-85f3-5ffd1dc20200.png)
 
