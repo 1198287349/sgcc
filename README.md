@@ -3,6 +3,7 @@ sgcc 网上国网  电e宝 算法分析
 
 # QQ1198287349
 
+# 20235.26 11:53更新加密算法
 
 ![1](https://user-images.githubusercontent.com/38068634/222102987-adc43d5b-2462-4dd0-85f3-5ffd1dc20200.png)
 
